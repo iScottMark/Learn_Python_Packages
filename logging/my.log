@@ -1,0 +1,18 @@
+2021-11-08 20:34:30,695 - INFO - Strat
+2021-11-08 20:34:30,695 - WARNING - There is something wrong.
+2021-11-08 20:34:30,695 - ERROR - Failed
+Traceback (most recent call last):
+  File "/home/mxx/Learn/logging/log.py", line 37, in <module>
+    result = 10 / 0
+ZeroDivisionError: division by zero
+2021-11-08 20:34:30,695 - INFO - End
+
+2021-11-08 20:34:38,277 - INFO - Strat
+2021-11-08 20:34:38,277 - WARNING - There is something wrong.
+2021-11-08 20:34:38,277 - ERROR - Failed
+Traceback (most recent call last):
+  File "/home/mxx/Learn/logging/log.py", line 37, in <module>
+    result = 10 / 0
+ZeroDivisionError: division by zero
+2021-11-08 20:34:38,277 - INFO - End
+
